@@ -1,0 +1,27 @@
+{
+    "name": "genshin",
+    "displayName": "Genshin Impact Theme",
+    "description": "Colour theme inspired by Genshin Impact.",
+    "version": "1.0.0",
+    "publisher": "sethyeung0404",
+    "categories": [
+        "Themes"
+      ],    "icon": "icon.png",
+    "pricing": "Free",
+    "engines": {
+      "vscode": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SpeedyOrc-C/Allogenes-VSCode-Theme"
+    },
+    "contributes": {
+        "themes": [
+          {
+            "label": "genshin",
+            "uiTheme": "vs",
+            "path": "./genshin-color-theme.json"
+          }
+        ]
+      }
+  }
