@@ -22,6 +22,10 @@ Color code are collected from Razer & Genshin Impact's collaborate collection.
 
 ## FAQ
 
+Currently it does not support custom configuration.
+
 Since it's just the 1.0.0 version, it's still improving and may update in the future, Please let me know if there are any improvements you want to made, enjoy!
 
 Love to all Genshin Impact player and developers!
+
+p.s. I do not own the icon
