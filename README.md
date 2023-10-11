@@ -1,9 +1,10 @@
 # Genshin Impact Theme
 
-Hi all, this theme is inspired by Genshin Impact's Paimon(派蒙).
+Hi all, this is a fanmade theme inspired by Genshin Impact's Paimon(派蒙).
 
 Color code are collected from Razer & Genshin Impact's collaborate collection.
 
+Feel free to use or distribute to others.
 
 ## Color Reference
 
@@ -24,8 +25,8 @@ Color code are collected from Razer & Genshin Impact's collaborate collection.
 
 Currently it does not support custom configuration.
 
-Since it's just the 1.0.0 version, it's still improving and may update in the future, Please let me know if there are any improvements you want to made, enjoy!
+Since it's an early version, it's still improving and may update in the future, Please let me know if there are any improvements you want to made, enjoy!
 
 Love to all Genshin Impact player and developers!
 
-p.s. I do not own the icon
+p.s. I do not own the icon and this is definitely not official.
