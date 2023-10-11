@@ -17,6 +17,7 @@ Color code are collected from Razer & Genshin Impact's collaborate collection.
 | Paimon White Hair | ![#ebe4d8](https://via.placeholder.com/10/ebe4d8?text=+) #ebe4d8 |
 | Genshin Danger | ![#fd6b34](https://via.placeholder.com/10/fd6b34?text=+) #fd6b34 |
 | Genshin Inactive | ![#252526](https://via.placeholder.com/10/252526?text=+) #252526 |
+| Activity Bar | ![#4b5466](https://via.placeholder.com/10/4b5466?text=+) #4b5466 |
 
 
 ## FAQ
