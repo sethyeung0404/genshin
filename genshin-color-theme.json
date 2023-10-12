@@ -2010,6 +2010,7 @@
     "editorBracketHighlight.foreground5": "#bbd1ed",
     "editorBracketHighlight.foreground6": "#bcbbed",
     "list.highlightForeground": "#0097fb",
-    "list.focusHighlightForeground": "#011138"
+    "list.focusHighlightForeground": "#011138",
+    "textPreformat.foreground": "#7291df"
   }
 }
