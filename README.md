@@ -9,10 +9,12 @@ Feel free to use or distribute to others.
 # Major Color reference
 
 Paimon Blue #011138
+
 Paimon Gold #EDDBBB
+
 Paimon white : #ece5d8
-Sidebar background : #495266
-Sidebar font : #d3bc8e
+
+Syntax Color are inspired from seven elements in Genshin Impact World.
 
 ## FAQ
 
