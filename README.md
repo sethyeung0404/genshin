@@ -7,7 +7,8 @@ Color code are collected from Genshin Impact's ingame settings page.
 Feel free to use or distribute to others.
 
 # Preview
-
+![demo](https://github.com/sethyeung0404/genshin/blob/master/preview/demo.png?raw=true)
+![elements](https://github.com/sethyeung0404/genshin/blob/master/preview/elements.png?raw=true)
 
 # Major Color reference
 
