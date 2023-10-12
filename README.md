@@ -6,15 +6,18 @@ Color code are collected from Genshin Impact's ingame settings page.
 
 Feel free to use or distribute to others.
 
+# Preview
+
+
 # Major Color reference
 
-Paimon Blue #011138
+Paimon Blue 011138
 
-Paimon Gold #EDDBBB
+Paimon Gold eddbbb
 
-Paimon white : #ece5d8
+Paimon white ece5d8
 
-Syntax Color are inspired from seven elements in Genshin Impact World.
+Syntax Color are inspired from Seven elements in Genshin Impact World.
 
 ## FAQ
 
