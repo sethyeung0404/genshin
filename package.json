@@ -2,7 +2,7 @@
   "name": "genshin",
   "displayName": "Genshin Impact Theme",
   "description": "Colour theme inspired by Genshin Impact.",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "publisher": "kinstar",
   "categories": [
     "Themes"
@@ -16,11 +16,16 @@
     "type": "git",
     "url": "https://github.com/sethyeung0404/genshin"
   },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Genshin Impact"
+  ],
   "contributes": {
     "themes": [
       {
         "label": "genshin",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./genshin-color-theme.json"
       }
     ]
