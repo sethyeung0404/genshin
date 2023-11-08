@@ -25,18 +25,10 @@ Syntax Color are inspired from Seven elements in Genshin Impact World.
 Currently it does not support custom configuration.
 However if you find most of my colors look great and you want to make minor customization, you can follow this [guide](https://code.visualstudio.com/docs/getstarted/themes#_customizing-a-color-theme) and use `workbench.colorCustomizations`.
 
-Since it's an early version, it's still improving and may update in the future, Please let me know if there are any improvements you want to make, enjoy!
-
 Love to all Genshin Impact player and developers!
 
-p.s. I do not own the icon and this is definitely not official.
 
 ## Progress
 
+In the lastest version red and green colour are converted for better React.js development experience. 
 Trying to add more variant colors such as different characters in the future, stay tuned.
-
-## Known Issues
-
-1. Code suggestions extension such as tabnine will remain black font color which is diffcult to see, but as they don't provide solution to change color :/.
-
-2. If you find the native tab color annoying, please add this to your settings.json `"workbench.editor.decorations.colors": false,`
