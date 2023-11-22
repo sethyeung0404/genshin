@@ -179,7 +179,7 @@
       "name": "math js/ts",
       "scope": "support.constant.math",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -203,7 +203,7 @@
         "storage.type.object.array.java"
       ],
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -231,7 +231,7 @@
       "name": "java modifier.import",
       "scope": "storage.modifier.import.java,storage.type.java,storage.type.generic.java",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#20c2eb"
       }
     },
     {
@@ -315,14 +315,14 @@
       "name": "js/ts module",
       "scope": "support.module.node,support.type.object.module,support.module.node",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
       "name": "entity.name.type.module",
       "scope": "entity.name.type.module",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -531,7 +531,7 @@
       "name": "Namespaces",
       "scope": "entity.name.namespace",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -566,7 +566,7 @@
       "name": "Java Imports",
       "scope": "import.storage.java",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -599,21 +599,21 @@
       "name": "Classes",
       "scope": "entity.name.type.namespace",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
       "name": "Class name",
       "scope": "entity.name.class.identifier.namespace.type",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -624,7 +624,7 @@
         "variable.other.class.ts"
       ],
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -638,7 +638,7 @@
       "name": "Type Name",
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -687,7 +687,7 @@
       "name": "Java Storage",
       "scope": "token.storage.type.java",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -736,7 +736,7 @@
       "name": "Inherited Class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -834,7 +834,7 @@
       "name": "Bold",
       "scope": "punctuation.definition.bold",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -1069,7 +1069,7 @@
       "name": "use statement for other classes",
       "scope": "support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php,entity.other.alias.php,meta.interface.php",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -1251,7 +1251,7 @@
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -1265,7 +1265,7 @@
       "name": "cs storage type",
       "scope": "storage.type.cs",
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
@@ -1391,7 +1391,7 @@
       "name": "go operator",
       "scope": ["keyword.operator.assignment.go"],
       "settings": {
-        "foreground": "#319a84"
+        "foreground": "#84f1ec"
       }
     },
     {
